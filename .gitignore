@@ -1,3 +1,4 @@
+# exclude branch
 build/
 *.o
 *.dll
